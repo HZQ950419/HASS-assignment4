@@ -1,0 +1,1772 @@
+{
+ "ADMIRALTY": {
+  "Population": "13480",
+  "Planning Area": "Sembawang"
+ },
+ "AIRPORT ROAD": {
+  "Population": "-",
+  "Planning Area": "Paya Lebar"
+ },
+ "ALEXANDRA HILL": {
+  "Population": "13150",
+  "Planning Area": "Bukit Merah"
+ },
+ "ALEXANDRA NORTH": {
+  "Population": "2780",
+  "Planning Area": "Bukit Merah"
+ },
+ "ALJUNIED": {
+  "Population": "39620",
+  "Planning Area": "Geylang"
+ },
+ "ANAK BUKIT": {
+  "Population": "21220",
+  "Planning Area": "Bukit Timah"
+ },
+ "ANCHORVALE": {
+  "Population": "50050",
+  "Planning Area": "Sengkang"
+ },
+ "ANG MO KIO TOWN CENTRE": {
+  "Population": "4760",
+  "Planning Area": "Ang Mo Kio"
+ },
+ "ANSON": {
+  "Population": "80",
+  "Planning Area": "Downtown Core"
+ },
+ "BAHAR": {
+  "Population": "-",
+  "Planning Area": "Western Water Catchment"
+ },
+ "BALESTIER": {
+  "Population": "32020",
+  "Planning Area": "Novena"
+ },
+ "BANGKIT": {
+  "Population": "21680",
+  "Planning Area": "Bukit Panjang"
+ },
+ "BAYFRONT SUBZONE": {
+  "Population": "-",
+  "Planning Area": "Downtown Core"
+ },
+ "BAYSHORE": {
+  "Population": "7340",
+  "Planning Area": "Bedok"
+ },
+ "BEDOK NORTH": {
+  "Population": "81010",
+  "Planning Area": "Bedok"
+ },
+ "BEDOK RESERVOIR": {
+  "Population": "24940",
+  "Planning Area": "Bedok"
+ },
+ "BEDOK SOUTH": {
+  "Population": "45860",
+  "Planning Area": "Bedok"
+ },
+ "BENCOOLEN": {
+  "Population": "1240",
+  "Planning Area": "Rochor"
+ },
+ "BENDEMEER": {
+  "Population": "36950",
+  "Planning Area": "Kallang"
+ },
+ "BENOI SECTOR": {
+  "Population": "-",
+  "Planning Area": "Pioneer"
+ },
+ "BIDADARI": {
+  "Population": "-",
+  "Planning Area": "Toa Payoh"
+ },
+ "BISHAN EAST": {
+  "Population": "27300",
+  "Planning Area": "Bishan"
+ },
+ "BOAT QUAY": {
+  "Population": "130",
+  "Planning Area": "Singapore River"
+ },
+ "BOON KENG": {
+  "Population": "11310",
+  "Planning Area": "Kallang"
+ },
+ "BOON LAY PLACE": {
+  "Population": "28350",
+  "Planning Area": "Jurong West"
+ },
+ "BOON TECK": {
+  "Population": "14890",
+  "Planning Area": "Toa Payoh"
+ },
+ "BOULEVARD": {
+  "Population": "340",
+  "Planning Area": "Orchard"
+ },
+ "BRADDELL": {
+  "Population": "9610",
+  "Planning Area": "Toa Payoh"
+ },
+ "BRAS BASAH": {
+  "Population": "10",
+  "Planning Area": "Museum"
+ },
+ "BRICKLAND": {
+  "Population": "-",
+  "Planning Area": "Tengah"
+ },
+ "BRICKWORKS": {
+  "Population": "25180",
+  "Planning Area": "Bukit Batok"
+ },
+ "BUGIS": {
+  "Population": "880",
+  "Planning Area": "Downtown Core"
+ },
+ "BUKIT BATOK CENTRAL": {
+  "Population": "26900",
+  "Planning Area": "Bukit Batok"
+ },
+ "BUKIT BATOK EAST": {
+  "Population": "12300",
+  "Planning Area": "Bukit Batok"
+ },
+ "BUKIT BATOK SOUTH": {
+  "Population": "14580",
+  "Planning Area": "Bukit Batok"
+ },
+ "BUKIT BATOK WEST": {
+  "Population": "14550",
+  "Planning Area": "Bukit Batok"
+ },
+ "BUKIT HO SWEE": {
+  "Population": "14000",
+  "Planning Area": "Bukit Merah"
+ },
+ "BUKIT MERAH": {
+  "Population": "1060",
+  "Planning Area": "Bukit Merah"
+ },
+ "CAIRNHILL": {
+  "Population": "3800",
+  "Planning Area": "Newton"
+ },
+ "CECIL": {
+  "Population": "320",
+  "Planning Area": "Downtown Core"
+ },
+ "CENTRAL SUBZONE": {
+  "Population": "980",
+  "Planning Area": "Downtown Core"
+ },
+ "CENTRAL WATER CATCHMENT": {
+  "Population": "-",
+  "Planning Area": "Central Water Catchment"
+ },
+ "CHANGI AIRPORT": {
+  "Population": "-",
+  "Planning Area": "Changi"
+ },
+ "CHANGI BAY": {
+  "Population": "-",
+  "Planning Area": "Changi Bay"
+ },
+ "CHANGI POINT": {
+  "Population": "560",
+  "Planning Area": "Changi"
+ },
+ "CHANGI WEST": {
+  "Population": "1330",
+  "Planning Area": "Changi"
+ },
+ "CHATSWORTH": {
+  "Population": "6830",
+  "Planning Area": "Tanglin"
+ },
+ "CHENG SAN": {
+  "Population": "27260",
+  "Planning Area": "Ang Mo Kio"
+ },
+ "CHIN BEE": {
+  "Population": "-",
+  "Planning Area": "Jurong West"
+ },
+ "CHINA SQUARE": {
+  "Population": "1340",
+  "Planning Area": "Outram"
+ },
+ "CHINATOWN": {
+  "Population": "10090",
+  "Planning Area": "Outram"
+ },
+ "CHOA CHU KANG CENTRAL": {
+  "Population": "22200",
+  "Planning Area": "Choa Chu Kang"
+ },
+ "CHOA CHU KANG NORTH": {
+  "Population": "31260",
+  "Planning Area": "Choa Chu Kang"
+ },
+ "CHONG BOON": {
+  "Population": "25800",
+  "Planning Area": "Ang Mo Kio"
+ },
+ "CITY HALL": {
+  "Population": "90",
+  "Planning Area": "Downtown Core"
+ },
+ "CITY TERMINALS": {
+  "Population": "20",
+  "Planning Area": "Bukit Merah"
+ },
+ "CLARKE QUAY": {
+  "Population": "100",
+  "Planning Area": "Singapore River"
+ },
+ "CLEANTECH": {
+  "Population": "-",
+  "Planning Area": "Western Water Catchment"
+ },
+ "CLEMENTI CENTRAL": {
+  "Population": "14390",
+  "Planning Area": "Clementi"
+ },
+ "CLEMENTI NORTH": {
+  "Population": "27870",
+  "Planning Area": "Clementi"
+ },
+ "CLEMENTI WEST": {
+  "Population": "14770",
+  "Planning Area": "Clementi"
+ },
+ "CLEMENTI WOODS": {
+  "Population": "15770",
+  "Planning Area": "Clementi"
+ },
+ "CLIFFORD PIER": {
+  "Population": "-",
+  "Planning Area": "Downtown Core"
+ },
+ "COMMONWEALTH": {
+  "Population": "6660",
+  "Planning Area": "Queenstown"
+ },
+ "COMPASSVALE": {
+  "Population": "20750",
+  "Planning Area": "Sengkang"
+ },
+ "CONEY ISLAND": {
+  "Population": "-",
+  "Planning Area": "Punggol"
+ },
+ "CORONATION ROAD": {
+  "Population": "6400",
+  "Planning Area": "Bukit Timah"
+ },
+ "CRAWFORD": {
+  "Population": "8050",
+  "Planning Area": "Kallang"
+ },
+ "DAIRY FARM": {
+  "Population": "6810",
+  "Planning Area": "Bukit Panjang"
+ },
+ "DEFU INDUSTRIAL PARK": {
+  "Population": "10",
+  "Planning Area": "Hougang"
+ },
+ "DEPOT ROAD": {
+  "Population": "6400",
+  "Planning Area": "Bukit Merah"
+ },
+ "DHOBY GHAUT": {
+  "Population": "350",
+  "Planning Area": "Museum"
+ },
+ "DOVER": {
+  "Population": "10690",
+  "Planning Area": "Queenstown"
+ },
+ "DUNEARN": {
+  "Population": "3790",
+  "Planning Area": "Novena"
+ },
+ "EAST COAST": {
+  "Population": "-",
+  "Planning Area": "Marine Parade"
+ },
+ "EVERTON PARK": {
+  "Population": "7520",
+  "Planning Area": "Bukit Merah"
+ },
+ "FABER": {
+  "Population": "5320",
+  "Planning Area": "Clementi"
+ },
+ "FAJAR": {
+  "Population": "27020",
+  "Planning Area": "Bukit Panjang"
+ },
+ "FARRER COURT": {
+  "Population": "6140",
+  "Planning Area": "Bukit Timah"
+ },
+ "FARRER PARK": {
+  "Population": "2500",
+  "Planning Area": "Rochor"
+ },
+ "FERNVALE": {
+  "Population": "58390",
+  "Planning Area": "Sengkang"
+ },
+ "FLORA DRIVE": {
+  "Population": "14840",
+  "Planning Area": "Pasir Ris"
+ },
+ "FOREST HILL": {
+  "Population": "10",
+  "Planning Area": "Tengah"
+ },
+ "FORT CANNING": {
+  "Population": "170",
+  "Planning Area": "Museum"
+ },
+ "FRANKEL": {
+  "Population": "33590",
+  "Planning Area": "Bedok"
+ },
+ "GALI BATU": {
+  "Population": "20",
+  "Planning Area": "Sungei Kadut"
+ },
+ "GARDEN": {
+  "Population": "-",
+  "Planning Area": "Tengah"
+ },
+ "GEYLANG BAHRU": {
+  "Population": "10750",
+  "Planning Area": "Kallang"
+ },
+ "GEYLANG EAST": {
+  "Population": "29350",
+  "Planning Area": "Geylang"
+ },
+ "GHIM MOH": {
+  "Population": "13370",
+  "Planning Area": "Queenstown"
+ },
+ "GOMBAK": {
+  "Population": "9770",
+  "Planning Area": "Bukit Batok"
+ },
+ "GOODWOOD PARK": {
+  "Population": "1250",
+  "Planning Area": "Newton"
+ },
+ "GREENWOOD PARK": {
+  "Population": "80",
+  "Planning Area": "Woodlands"
+ },
+ "GUILIN": {
+  "Population": "12450",
+  "Planning Area": "Bukit Batok"
+ },
+ "GUL BASIN": {
+  "Population": "-",
+  "Planning Area": "Pioneer"
+ },
+ "GUL CIRCLE": {
+  "Population": "20",
+  "Planning Area": "Pioneer"
+ },
+ "HENDERSON HILL": {
+  "Population": "12970",
+  "Planning Area": "Bukit Merah"
+ },
+ "HILLCREST": {
+  "Population": "9220",
+  "Planning Area": "Bukit Timah"
+ },
+ "HILLVIEW": {
+  "Population": "18870",
+  "Planning Area": "Bukit Batok"
+ },
+ "HOLLAND DRIVE": {
+  "Population": "12080",
+  "Planning Area": "Queenstown"
+ },
+ "HOLLAND ROAD": {
+  "Population": "10750",
+  "Planning Area": "Bukit Timah"
+ },
+ "HONG KAH": {
+  "Population": "52420",
+  "Planning Area": "Jurong West"
+ },
+ "HONG KAH NORTH": {
+  "Population": "25550",
+  "Planning Area": "Bukit Batok"
+ },
+ "HOUGANG CENTRAL": {
+  "Population": "4590",
+  "Planning Area": "Hougang"
+ },
+ "HOUGANG EAST": {
+  "Population": "24270",
+  "Planning Area": "Hougang"
+ },
+ "HOUGANG WEST": {
+  "Population": "44900",
+  "Planning Area": "Hougang"
+ },
+ "INSTITUTION HILL": {
+  "Population": "3130",
+  "Planning Area": "River Valley"
+ },
+ "INTERNATIONAL BUSINESS PARK": {
+  "Population": "-",
+  "Planning Area": "Jurong East"
+ },
+ "ISTANA NEGARA": {
+  "Population": "50",
+  "Planning Area": "Newton"
+ },
+ "JELEBU": {
+  "Population": "30480",
+  "Planning Area": "Bukit Panjang"
+ },
+ "JOO KOON": {
+  "Population": "20",
+  "Planning Area": "Pioneer"
+ },
+ "JOO SENG": {
+  "Population": "7990",
+  "Planning Area": "Toa Payoh"
+ },
+ "JURONG GATEWAY": {
+  "Population": "500",
+  "Planning Area": "Jurong East"
+ },
+ "JURONG ISLAND AND BUKOM": {
+  "Population": "-",
+  "Planning Area": "Western Islands"
+ },
+ "JURONG PORT": {
+  "Population": "-",
+  "Planning Area": "Jurong East"
+ },
+ "JURONG RIVER": {
+  "Population": "-",
+  "Planning Area": "Jurong East"
+ },
+ "JURONG WEST CENTRAL": {
+  "Population": "61720",
+  "Planning Area": "Jurong West"
+ },
+ "KAKI BUKIT": {
+  "Population": "36240",
+  "Planning Area": "Bedok"
+ },
+ "KALLANG BAHRU": {
+  "Population": "10",
+  "Planning Area": "Kallang"
+ },
+ "KALLANG WAY": {
+  "Population": "30",
+  "Planning Area": "Geylang"
+ },
+ "KAMPONG BUGIS": {
+  "Population": "930",
+  "Planning Area": "Kallang"
+ },
+ "KAMPONG GLAM": {
+  "Population": "110",
+  "Planning Area": "Rochor"
+ },
+ "KAMPONG JAVA": {
+  "Population": "10050",
+  "Planning Area": "Kallang"
+ },
+ "KAMPONG TIONG BAHRU": {
+  "Population": "8700",
+  "Planning Area": "Bukit Merah"
+ },
+ "KAMPONG UBI": {
+  "Population": "11290",
+  "Planning Area": "Geylang"
+ },
+ "KANGKAR": {
+  "Population": "32260",
+  "Planning Area": "Hougang"
+ },
+ "KATONG": {
+  "Population": "9090",
+  "Planning Area": "Marine Parade"
+ },
+ "KEAT HONG": {
+  "Population": "38240",
+  "Planning Area": "Choa Chu Kang"
+ },
+ "KEBUN BAHRU": {
+  "Population": "21950",
+  "Planning Area": "Ang Mo Kio"
+ },
+ "KEMBANGAN": {
+  "Population": "36350",
+  "Planning Area": "Bedok"
+ },
+ "KENT RIDGE": {
+  "Population": "60",
+  "Planning Area": "Queenstown"
+ },
+ "KHATIB": {
+  "Population": "9950",
+  "Planning Area": "Yishun"
+ },
+ "KIAN TECK": {
+  "Population": "30",
+  "Planning Area": "Jurong West"
+ },
+ "KIM KEAT": {
+  "Population": "7610",
+  "Planning Area": "Toa Payoh"
+ },
+ "KOVAN": {
+  "Population": "24370",
+  "Planning Area": "Hougang"
+ },
+ "KRANJI": {
+  "Population": "10",
+  "Planning Area": "Sungei Kadut"
+ },
+ "LAKESIDE (BUSINESS)": {
+  "Population": "-",
+  "Planning Area": "Jurong East"
+ },
+ "LAKESIDE (LEISURE)": {
+  "Population": "970",
+  "Planning Area": "Jurong East"
+ },
+ "LAVENDER": {
+  "Population": "9460",
+  "Planning Area": "Kallang"
+ },
+ "LEEDON PARK": {
+  "Population": "6270",
+  "Planning Area": "Bukit Timah"
+ },
+ "LEONIE HILL": {
+  "Population": "3180",
+  "Planning Area": "River Valley"
+ },
+ "LIM CHU KANG": {
+  "Population": "100",
+  "Planning Area": "Lim Chu Kang"
+ },
+ "LITTLE INDIA": {
+  "Population": "3120",
+  "Planning Area": "Rochor"
+ },
+ "LIU FANG": {
+  "Population": "-",
+  "Planning Area": "Boon Lay"
+ },
+ "LORONG 8 TOA PAYOH": {
+  "Population": "6900",
+  "Planning Area": "Toa Payoh"
+ },
+ "LORONG AH SOO": {
+  "Population": "31720",
+  "Planning Area": "Hougang"
+ },
+ "LORONG CHUAN": {
+  "Population": "8410",
+  "Planning Area": "Serangoon"
+ },
+ "LORONG HALUS": {
+  "Population": "-",
+  "Planning Area": "Hougang"
+ },
+ "LORONG HALUS NORTH": {
+  "Population": "-",
+  "Planning Area": "Sengkang"
+ },
+ "LOWER SELETAR": {
+  "Population": "18900",
+  "Planning Area": "Yishun"
+ },
+ "LOYANG EAST": {
+  "Population": "2080",
+  "Planning Area": "Pasir Ris"
+ },
+ "LOYANG WEST": {
+  "Population": "220",
+  "Planning Area": "Pasir Ris"
+ },
+ "MACKENZIE": {
+  "Population": "140",
+  "Planning Area": "Rochor"
+ },
+ "MACPHERSON": {
+  "Population": "27310",
+  "Planning Area": "Geylang"
+ },
+ "MALCOLM": {
+  "Population": "2910",
+  "Planning Area": "Novena"
+ },
+ "MANDAI EAST": {
+  "Population": "-",
+  "Planning Area": "Mandai"
+ },
+ "MANDAI ESTATE": {
+  "Population": "2070",
+  "Planning Area": "Mandai"
+ },
+ "MANDAI WEST": {
+  "Population": "-",
+  "Planning Area": "Mandai"
+ },
+ "MARGARET DRIVE": {
+  "Population": "17390",
+  "Planning Area": "Queenstown"
+ },
+ "MARINA CENTRE": {
+  "Population": "10",
+  "Planning Area": "Downtown Core"
+ },
+ "MARINA EAST": {
+  "Population": "-",
+  "Planning Area": "Marina East"
+ },
+ "MARINA EAST (MP)": {
+  "Population": "-",
+  "Planning Area": "Marine Parade"
+ },
+ "MARINA SOUTH": {
+  "Population": "-",
+  "Planning Area": "Marina South"
+ },
+ "MARINE PARADE": {
+  "Population": "26050",
+  "Planning Area": "Marine Parade"
+ },
+ "MARITIME SQUARE": {
+  "Population": "3840",
+  "Planning Area": "Bukit Merah"
+ },
+ "MARYMOUNT": {
+  "Population": "28800",
+  "Planning Area": "Bishan"
+ },
+ "MATILDA": {
+  "Population": "51960",
+  "Planning Area": "Punggol"
+ },
+ "MAXWELL": {
+  "Population": "-",
+  "Planning Area": "Downtown Core"
+ },
+ "MEI CHIN": {
+  "Population": "15010",
+  "Planning Area": "Queenstown"
+ },
+ "MIDVIEW": {
+  "Population": "34360",
+  "Planning Area": "Woodlands"
+ },
+ "MONK'S HILL": {
+  "Population": "1060",
+  "Planning Area": "Newton"
+ },
+ "MOULMEIN": {
+  "Population": "9380",
+  "Planning Area": "Novena"
+ },
+ "MOUNT EMILY": {
+  "Population": "1690",
+  "Planning Area": "Rochor"
+ },
+ "MOUNT PLEASANT": {
+  "Population": "700",
+  "Planning Area": "Novena"
+ },
+ "MOUNTBATTEN": {
+  "Population": "9540",
+  "Planning Area": "Marine Parade"
+ },
+ "MURAI": {
+  "Population": "610",
+  "Planning Area": "Western Water Catchment"
+ },
+ "NASSIM": {
+  "Population": "9350",
+  "Planning Area": "Tanglin"
+ },
+ "NATIONAL UNIVERSITY OF S'PORE": {
+  "Population": "220",
+  "Planning Area": "Queenstown"
+ },
+ "NATURE RESERVE": {
+  "Population": "3790",
+  "Planning Area": "Bukit Panjang"
+ },
+ "NEE SOON": {
+  "Population": "850",
+  "Planning Area": "Yishun"
+ },
+ "NEWTON CIRCUS": {
+  "Population": "240",
+  "Planning Area": "Newton"
+ },
+ "NICOLL": {
+  "Population": "290",
+  "Planning Area": "Downtown Core"
+ },
+ "NORTH COAST": {
+  "Population": "11460",
+  "Planning Area": "Woodlands"
+ },
+ "NORTH-EASTERN ISLANDS": {
+  "Population": "40",
+  "Planning Area": "North-Eastern Islands"
+ },
+ "NORTHLAND": {
+  "Population": "27410",
+  "Planning Area": "Yishun"
+ },
+ "NORTHSHORE": {
+  "Population": "4160",
+  "Planning Area": "Punggol"
+ },
+ "ONE NORTH": {
+  "Population": "750",
+  "Planning Area": "Queenstown"
+ },
+ "ONE TREE HILL": {
+  "Population": "2000",
+  "Planning Area": "River Valley"
+ },
+ "ORANGE GROVE": {
+  "Population": "1700",
+  "Planning Area": "Newton"
+ },
+ "OXLEY": {
+  "Population": "1490",
+  "Planning Area": "River Valley"
+ },
+ "PANDAN": {
+  "Population": "10",
+  "Planning Area": "Clementi"
+ },
+ "PANG SUA": {
+  "Population": "10",
+  "Planning Area": "Sungei Kadut"
+ },
+ "PARK": {
+  "Population": "-",
+  "Planning Area": "Tengah"
+ },
+ "PASIR PANJANG 1": {
+  "Population": "4530",
+  "Planning Area": "Queenstown"
+ },
+ "PASIR PANJANG 2": {
+  "Population": "2910",
+  "Planning Area": "Queenstown"
+ },
+ "PASIR RIS CENTRAL": {
+  "Population": "31860",
+  "Planning Area": "Pasir Ris"
+ },
+ "PASIR RIS DRIVE": {
+  "Population": "52920",
+  "Planning Area": "Pasir Ris"
+ },
+ "PASIR RIS PARK": {
+  "Population": "7710",
+  "Planning Area": "Pasir Ris"
+ },
+ "PASIR RIS WAFER FAB PARK": {
+  "Population": "10",
+  "Planning Area": "Pasir Ris"
+ },
+ "PASIR RIS WEST": {
+  "Population": "34970",
+  "Planning Area": "Pasir Ris"
+ },
+ "PATERSON": {
+  "Population": "240",
+  "Planning Area": "River Valley"
+ },
+ "PAYA LEBAR EAST": {
+  "Population": "-",
+  "Planning Area": "Paya Lebar"
+ },
+ "PAYA LEBAR NORTH": {
+  "Population": "20",
+  "Planning Area": "Paya Lebar"
+ },
+ "PAYA LEBAR WEST": {
+  "Population": "-",
+  "Planning Area": "Paya Lebar"
+ },
+ "PEARL'S HILL": {
+  "Population": "5770",
+  "Planning Area": "Outram"
+ },
+ "PEI CHUN": {
+  "Population": "10050",
+  "Planning Area": "Toa Payoh"
+ },
+ "PENG SIANG": {
+  "Population": "34030",
+  "Planning Area": "Choa Chu Kang"
+ },
+ "PENJURU CRESCENT": {
+  "Population": "10",
+  "Planning Area": "Jurong East"
+ },
+ "PEOPLE'S PARK": {
+  "Population": "270",
+  "Planning Area": "Outram"
+ },
+ "PHILLIP": {
+  "Population": "-",
+  "Planning Area": "Downtown Core"
+ },
+ "PIONEER SECTOR": {
+  "Population": "10",
+  "Planning Area": "Pioneer"
+ },
+ "PLAB": {
+  "Population": "-",
+  "Planning Area": "Paya Lebar"
+ },
+ "PLANTATION": {
+  "Population": "-",
+  "Planning Area": "Tengah"
+ },
+ "PORT": {
+  "Population": "110",
+  "Planning Area": "Queenstown"
+ },
+ "POTONG PASIR": {
+  "Population": "11650",
+  "Planning Area": "Toa Payoh"
+ },
+ "PULAU PUNGGOL BARAT": {
+  "Population": "-",
+  "Planning Area": "Seletar"
+ },
+ "PULAU PUNGGOL TIMOR": {
+  "Population": "-",
+  "Planning Area": "Seletar"
+ },
+ "PULAU SELETAR": {
+  "Population": "-",
+  "Planning Area": "Simpang"
+ },
+ "PUNGGOL CANAL": {
+  "Population": "-",
+  "Planning Area": "Punggol"
+ },
+ "PUNGGOL FIELD": {
+  "Population": "48010",
+  "Planning Area": "Punggol"
+ },
+ "PUNGGOL TOWN CENTRE": {
+  "Population": "22310",
+  "Planning Area": "Punggol"
+ },
+ "QUEENSWAY": {
+  "Population": "260",
+  "Planning Area": "Queenstown"
+ },
+ "RAFFLES PLACE": {
+  "Population": "20",
+  "Planning Area": "Downtown Core"
+ },
+ "REDHILL": {
+  "Population": "10800",
+  "Planning Area": "Bukit Merah"
+ },
+ "RESERVOIR VIEW": {
+  "Population": "10",
+  "Planning Area": "Sungei Kadut"
+ },
+ "RIDOUT": {
+  "Population": "1460",
+  "Planning Area": "Tanglin"
+ },
+ "RIVERVALE": {
+  "Population": "58540",
+  "Planning Area": "Sengkang"
+ },
+ "ROBERTSON QUAY": {
+  "Population": "3170",
+  "Planning Area": "Singapore River"
+ },
+ "ROCHOR CANAL": {
+  "Population": "-",
+  "Planning Area": "Rochor"
+ },
+ "SAFTI": {
+  "Population": "-",
+  "Planning Area": "Jurong West"
+ },
+ "SAMULUN": {
+  "Population": "10",
+  "Planning Area": "Boon Lay"
+ },
+ "SAUJANA": {
+  "Population": "25300",
+  "Planning Area": "Bukit Panjang"
+ },
+ "SELEGIE": {
+  "Population": "210",
+  "Planning Area": "Rochor"
+ },
+ "SELETAR": {
+  "Population": "290",
+  "Planning Area": "Seletar"
+ },
+ "SELETAR AEROSPACE PARK": {
+  "Population": "20",
+  "Planning Area": "Seletar"
+ },
+ "SELETAR HILLS": {
+  "Population": "14730",
+  "Planning Area": "Serangoon"
+ },
+ "SEMAKAU": {
+  "Population": "-",
+  "Planning Area": "Western Islands"
+ },
+ "SEMBAWANG CENTRAL": {
+  "Population": "34630",
+  "Planning Area": "Sembawang"
+ },
+ "SEMBAWANG EAST": {
+  "Population": "19940",
+  "Planning Area": "Sembawang"
+ },
+ "SEMBAWANG HILLS": {
+  "Population": "6640",
+  "Planning Area": "Ang Mo Kio"
+ },
+ "SEMBAWANG NORTH": {
+  "Population": "25160",
+  "Planning Area": "Sembawang"
+ },
+ "SEMBAWANG SPRINGS": {
+  "Population": "9330",
+  "Planning Area": "Sembawang"
+ },
+ "SEMBAWANG STRAITS": {
+  "Population": "2170",
+  "Planning Area": "Sembawang"
+ },
+ "SENGKANG TOWN CENTRE": {
+  "Population": "60900",
+  "Planning Area": "Sengkang"
+ },
+ "SENGKANG WEST": {
+  "Population": "-",
+  "Planning Area": "Sengkang"
+ },
+ "SENJA": {
+  "Population": "19640",
+  "Planning Area": "Bukit Panjang"
+ },
+ "SENNETT": {
+  "Population": "10220",
+  "Planning Area": "Toa Payoh"
+ },
+ "SENOKO NORTH": {
+  "Population": "10",
+  "Planning Area": "Sembawang"
+ },
+ "SENOKO SOUTH": {
+  "Population": "20",
+  "Planning Area": "Sembawang"
+ },
+ "SENOKO WEST": {
+  "Population": "10",
+  "Planning Area": "Woodlands"
+ },
+ "SENTOSA": {
+  "Population": "1980",
+  "Planning Area": "Southern Islands"
+ },
+ "SERANGOON CENTRAL": {
+  "Population": "24050",
+  "Planning Area": "Serangoon"
+ },
+ "SERANGOON GARDEN": {
+  "Population": "34910",
+  "Planning Area": "Serangoon"
+ },
+ "SERANGOON NORTH": {
+  "Population": "15490",
+  "Planning Area": "Serangoon"
+ },
+ "SERANGOON NORTH IND ESTATE": {
+  "Population": "-",
+  "Planning Area": "Serangoon"
+ },
+ "SHANGRI-LA": {
+  "Population": "16800",
+  "Planning Area": "Ang Mo Kio"
+ },
+ "SHIPYARD": {
+  "Population": "-",
+  "Planning Area": "Boon Lay"
+ },
+ "SIGLAP": {
+  "Population": "6480",
+  "Planning Area": "Bedok"
+ },
+ "SIMEI": {
+  "Population": "38330",
+  "Planning Area": "Tampines"
+ },
+ "SIMPANG NORTH": {
+  "Population": "-",
+  "Planning Area": "Simpang"
+ },
+ "SIMPANG SOUTH": {
+  "Population": "-",
+  "Planning Area": "Simpang"
+ },
+ "SINGAPORE GENERAL HOSPITAL": {
+  "Population": "10",
+  "Planning Area": "Bukit Merah"
+ },
+ "SINGAPORE POLYTECHNIC": {
+  "Population": "80",
+  "Planning Area": "Queenstown"
+ },
+ "SOMERSET": {
+  "Population": "130",
+  "Planning Area": "Orchard"
+ },
+ "SOUTHERN GROUP": {
+  "Population": "-",
+  "Planning Area": "Southern Islands"
+ },
+ "SPRINGLEAF": {
+  "Population": "4350",
+  "Planning Area": "Yishun"
+ },
+ "STRAITS VIEW": {
+  "Population": "-",
+  "Planning Area": "Straits View"
+ },
+ "SUDONG": {
+  "Population": "-",
+  "Planning Area": "Western Islands"
+ },
+ "SUNGEI ROAD": {
+  "Population": "2020",
+  "Planning Area": "Rochor"
+ },
+ "SUNSET WAY": {
+  "Population": "5360",
+  "Planning Area": "Clementi"
+ },
+ "SWISS CLUB": {
+  "Population": "5160",
+  "Planning Area": "Bukit Timah"
+ },
+ "TAGORE": {
+  "Population": "7740",
+  "Planning Area": "Ang Mo Kio"
+ },
+ "TAI SENG": {
+  "Population": "13450",
+  "Planning Area": "Hougang"
+ },
+ "TAMAN JURONG": {
+  "Population": "38990",
+  "Planning Area": "Jurong West"
+ },
+ "TAMPINES EAST": {
+  "Population": "127510",
+  "Planning Area": "Tampines"
+ },
+ "TAMPINES NORTH": {
+  "Population": "10720",
+  "Planning Area": "Tampines"
+ },
+ "TAMPINES WEST": {
+  "Population": "79810",
+  "Planning Area": "Tampines"
+ },
+ "TANGLIN": {
+  "Population": "380",
+  "Planning Area": "Orchard"
+ },
+ "TANGLIN HALT": {
+  "Population": "9500",
+  "Planning Area": "Queenstown"
+ },
+ "TANJONG IRAU": {
+  "Population": "-",
+  "Planning Area": "Simpang"
+ },
+ "TANJONG PAGAR": {
+  "Population": "670",
+  "Planning Area": "Downtown Core"
+ },
+ "TANJONG RHU": {
+  "Population": "10790",
+  "Planning Area": "Kallang"
+ },
+ "TEBAN GARDENS": {
+  "Population": "17790",
+  "Planning Area": "Jurong East"
+ },
+ "TECK WHYE": {
+  "Population": "23940",
+  "Planning Area": "Choa Chu Kang"
+ },
+ "TELOK BLANGAH DRIVE": {
+  "Population": "19040",
+  "Planning Area": "Bukit Merah"
+ },
+ "TELOK BLANGAH RISE": {
+  "Population": "11810",
+  "Planning Area": "Bukit Merah"
+ },
+ "TELOK BLANGAH WAY": {
+  "Population": "8820",
+  "Planning Area": "Bukit Merah"
+ },
+ "TENGAH INDUSTRIAL ESTATE": {
+  "Population": "-",
+  "Planning Area": "Tengah"
+ },
+ "TENGEH": {
+  "Population": "-",
+  "Planning Area": "Tuas"
+ },
+ "THE WHARVES": {
+  "Population": "-",
+  "Planning Area": "Sembawang"
+ },
+ "TIONG BAHRU": {
+  "Population": "12430",
+  "Planning Area": "Bukit Merah"
+ },
+ "TIONG BAHRU STATION": {
+  "Population": "14780",
+  "Planning Area": "Bukit Merah"
+ },
+ "TOA PAYOH CENTRAL": {
+  "Population": "27200",
+  "Planning Area": "Toa Payoh"
+ },
+ "TOA PAYOH WEST": {
+  "Population": "13950",
+  "Planning Area": "Toa Payoh"
+ },
+ "TOH GUAN": {
+  "Population": "14090",
+  "Planning Area": "Jurong East"
+ },
+ "TOH TUCK": {
+  "Population": "10",
+  "Planning Area": "Clementi"
+ },
+ "TOWNSVILLE": {
+  "Population": "20370",
+  "Planning Area": "Ang Mo Kio"
+ },
+ "TRAFALGAR": {
+  "Population": "49220",
+  "Planning Area": "Hougang"
+ },
+ "TUAS BAY": {
+  "Population": "10",
+  "Planning Area": "Tuas"
+ },
+ "TUAS NORTH": {
+  "Population": "10",
+  "Planning Area": "Tuas"
+ },
+ "TUAS PROMENADE": {
+  "Population": "10",
+  "Planning Area": "Tuas"
+ },
+ "TUAS VIEW": {
+  "Population": "10",
+  "Planning Area": "Tuas"
+ },
+ "TUAS VIEW EXTENSION": {
+  "Population": "10",
+  "Planning Area": "Tuas"
+ },
+ "TUKANG": {
+  "Population": "-",
+  "Planning Area": "Boon Lay"
+ },
+ "TURF CLUB": {
+  "Population": "670",
+  "Planning Area": "Sungei Kadut"
+ },
+ "TYERSALL": {
+  "Population": "3770",
+  "Planning Area": "Tanglin"
+ },
+ "ULU PANDAN": {
+  "Population": "10700",
+  "Planning Area": "Bukit Timah"
+ },
+ "UPPER PAYA LEBAR": {
+  "Population": "17520",
+  "Planning Area": "Serangoon"
+ },
+ "UPPER THOMSON": {
+  "Population": "28520",
+  "Planning Area": "Bishan"
+ },
+ "VICTORIA": {
+  "Population": "1650",
+  "Planning Area": "Rochor"
+ },
+ "WATERWAY EAST": {
+  "Population": "49740",
+  "Planning Area": "Punggol"
+ },
+ "WENYA": {
+  "Population": "8040",
+  "Planning Area": "Jurong West"
+ },
+ "WEST COAST": {
+  "Population": "7470",
+  "Planning Area": "Clementi"
+ },
+ "WOODGROVE": {
+  "Population": "32700",
+  "Planning Area": "Woodlands"
+ },
+ "WOODLANDS EAST": {
+  "Population": "96700",
+  "Planning Area": "Woodlands"
+ },
+ "WOODLANDS REGIONAL CENTRE": {
+  "Population": "-",
+  "Planning Area": "Woodlands"
+ },
+ "WOODLANDS SOUTH": {
+  "Population": "40140",
+  "Planning Area": "Woodlands"
+ },
+ "WOODLANDS WEST": {
+  "Population": "33480",
+  "Planning Area": "Woodlands"
+ },
+ "WOODLEIGH": {
+  "Population": "2480",
+  "Planning Area": "Toa Payoh"
+ },
+ "XILIN": {
+  "Population": "1720",
+  "Planning Area": "Tampines"
+ },
+ "YEW TEE": {
+  "Population": "39400",
+  "Planning Area": "Choa Chu Kang"
+ },
+ "YIO CHU KANG": {
+  "Population": "10",
+  "Planning Area": "Ang Mo Kio"
+ },
+ "YIO CHU KANG EAST": {
+  "Population": "4180",
+  "Planning Area": "Ang Mo Kio"
+ },
+ "YIO CHU KANG NORTH": {
+  "Population": "-",
+  "Planning Area": "Ang Mo Kio"
+ },
+ "YIO CHU KANG WEST": {
+  "Population": "23660",
+  "Planning Area": "Ang Mo Kio"
+ },
+ "YISHUN CENTRAL": {
+  "Population": "2780",
+  "Planning Area": "Yishun"
+ },
+ "YISHUN EAST": {
+  "Population": "60900",
+  "Planning Area": "Yishun"
+ },
+ "YISHUN SOUTH": {
+  "Population": "41580",
+  "Planning Area": "Yishun"
+ },
+ "YISHUN WEST": {
+  "Population": "52470",
+  "Planning Area": "Yishun"
+ },
+ "YUHUA EAST": {
+  "Population": "23960",
+  "Planning Area": "Jurong East"
+ },
+ "YUHUA WEST": {
+  "Population": "18570",
+  "Planning Area": "Jurong East"
+ },
+ "YUNNAN": {
+  "Population": "65570",
+  "Planning Area": "Jurong West"
+ },
+ "area_dict": {
+  "SEMBAWANG": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "The Wharves"
+   ]
+  },
+  "PAYA LEBAR": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Plab"
+   ]
+  },
+  "BUKIT MERAH": {
+   "Population": [
+    "14780"
+   ],
+   "Subzone": [
+    "Tiong Bahru Station"
+   ]
+  },
+  "GEYLANG": {
+   "Population": [
+    "27310"
+   ],
+   "Subzone": [
+    "Macpherson"
+   ]
+  },
+  "BUKIT TIMAH": {
+   "Population": [
+    "10700"
+   ],
+   "Subzone": [
+    "Ulu Pandan"
+   ]
+  },
+  "SENGKANG": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Sengkang West"
+   ]
+  },
+  "ANG MO KIO": {
+   "Population": [
+    "23660"
+   ],
+   "Subzone": [
+    "Yio Chu Kang West"
+   ]
+  },
+  "DOWNTOWN CORE": {
+   "Population": [
+    "670"
+   ],
+   "Subzone": [
+    "Tanjong Pagar"
+   ]
+  },
+  "WESTERN WATER CATCHMENT": {
+   "Population": [
+    "610"
+   ],
+   "Subzone": [
+    "Murai"
+   ]
+  },
+  "NOVENA": {
+   "Population": [
+    "700"
+   ],
+   "Subzone": [
+    "Mount Pleasant"
+   ]
+  },
+  "BUKIT PANJANG": {
+   "Population": [
+    "19640"
+   ],
+   "Subzone": [
+    "Senja"
+   ]
+  },
+  "BEDOK": {
+   "Population": [
+    "6480"
+   ],
+   "Subzone": [
+    "Siglap"
+   ]
+  },
+  "ROCHOR": {
+   "Population": [
+    "1650"
+   ],
+   "Subzone": [
+    "Victoria"
+   ]
+  },
+  "KALLANG": {
+   "Population": [
+    "10790"
+   ],
+   "Subzone": [
+    "Tanjong Rhu"
+   ]
+  },
+  "PIONEER": {
+   "Population": [
+    "10"
+   ],
+   "Subzone": [
+    "Pioneer Sector"
+   ]
+  },
+  "TOA PAYOH": {
+   "Population": [
+    "2480"
+   ],
+   "Subzone": [
+    "Woodleigh"
+   ]
+  },
+  "BISHAN": {
+   "Population": [
+    "28520"
+   ],
+   "Subzone": [
+    "Upper Thomson"
+   ]
+  },
+  "SINGAPORE RIVER": {
+   "Population": [
+    "3170"
+   ],
+   "Subzone": [
+    "Robertson Quay"
+   ]
+  },
+  "JURONG WEST": {
+   "Population": [
+    "65570"
+   ],
+   "Subzone": [
+    "Yunnan"
+   ]
+  },
+  "ORCHARD": {
+   "Population": [
+    "380"
+   ],
+   "Subzone": [
+    "Tanglin"
+   ]
+  },
+  "MUSEUM": {
+   "Population": [
+    "170"
+   ],
+   "Subzone": [
+    "Fort Canning"
+   ]
+  },
+  "TENGAH": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Tengah Industrial Estate"
+   ]
+  },
+  "BUKIT BATOK": {
+   "Population": [
+    "25550"
+   ],
+   "Subzone": [
+    "Hong Kah North"
+   ]
+  },
+  "NEWTON": {
+   "Population": [
+    "1700"
+   ],
+   "Subzone": [
+    "Orange Grove"
+   ]
+  },
+  "CENTRAL WATER CATCHMENT": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Central Water Catchment"
+   ]
+  },
+  "CHANGI": {
+   "Population": [
+    "1330"
+   ],
+   "Subzone": [
+    "Changi West"
+   ]
+  },
+  "CHANGI BAY": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Changi Bay"
+   ]
+  },
+  "TANGLIN": {
+   "Population": [
+    "3770"
+   ],
+   "Subzone": [
+    "Tyersall"
+   ]
+  },
+  "OUTRAM": {
+   "Population": [
+    "270"
+   ],
+   "Subzone": [
+    "People's Park"
+   ]
+  },
+  "CHOA CHU KANG": {
+   "Population": [
+    "39400"
+   ],
+   "Subzone": [
+    "Yew Tee"
+   ]
+  },
+  "CLEMENTI": {
+   "Population": [
+    "7470"
+   ],
+   "Subzone": [
+    "West Coast"
+   ]
+  },
+  "QUEENSTOWN": {
+   "Population": [
+    "9500"
+   ],
+   "Subzone": [
+    "Tanglin Halt"
+   ]
+  },
+  "PUNGGOL": {
+   "Population": [
+    "49740"
+   ],
+   "Subzone": [
+    "Waterway East"
+   ]
+  },
+  "HOUGANG": {
+   "Population": [
+    "49220"
+   ],
+   "Subzone": [
+    "Trafalgar"
+   ]
+  },
+  "MARINE PARADE": {
+   "Population": [
+    "9540"
+   ],
+   "Subzone": [
+    "Mountbatten"
+   ]
+  },
+  "PASIR RIS": {
+   "Population": [
+    "34970"
+   ],
+   "Subzone": [
+    "Pasir Ris West"
+   ]
+  },
+  "SUNGEI KADUT": {
+   "Population": [
+    "670"
+   ],
+   "Subzone": [
+    "Turf Club"
+   ]
+  },
+  "WOODLANDS": {
+   "Population": [
+    "33480"
+   ],
+   "Subzone": [
+    "Woodlands West"
+   ]
+  },
+  "RIVER VALLEY": {
+   "Population": [
+    "240"
+   ],
+   "Subzone": [
+    "Paterson"
+   ]
+  },
+  "JURONG EAST": {
+   "Population": [
+    "18570"
+   ],
+   "Subzone": [
+    "Yuhua West"
+   ]
+  },
+  "WESTERN ISLANDS": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Sudong"
+   ]
+  },
+  "YISHUN": {
+   "Population": [
+    "52470"
+   ],
+   "Subzone": [
+    "Yishun West"
+   ]
+  },
+  "LIM CHU KANG": {
+   "Population": [
+    "100"
+   ],
+   "Subzone": [
+    "Lim Chu Kang"
+   ]
+  },
+  "BOON LAY": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Tukang"
+   ]
+  },
+  "SERANGOON": {
+   "Population": [
+    "17520"
+   ],
+   "Subzone": [
+    "Upper Paya Lebar"
+   ]
+  },
+  "MANDAI": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Mandai West"
+   ]
+  },
+  "MARINA EAST": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Marina East"
+   ]
+  },
+  "MARINA SOUTH": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Marina South"
+   ]
+  },
+  "NORTH-EASTERN ISLANDS": {
+   "Population": [
+    "40"
+   ],
+   "Subzone": [
+    "North-Eastern Islands"
+   ]
+  },
+  "SELETAR": {
+   "Population": [
+    "20"
+   ],
+   "Subzone": [
+    "Seletar Aerospace Park"
+   ]
+  },
+  "SIMPANG": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Tanjong Irau"
+   ]
+  },
+  "SOUTHERN ISLANDS": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Southern Group"
+   ]
+  },
+  "TAMPINES": {
+   "Population": [
+    "1720"
+   ],
+   "Subzone": [
+    "Xilin"
+   ]
+  },
+  "STRAITS VIEW": {
+   "Population": [
+    "-"
+   ],
+   "Subzone": [
+    "Straits View"
+   ]
+  },
+  "TUAS": {
+   "Population": [
+    "10"
+   ],
+   "Subzone": [
+    "Tuas View Extension"
+   ]
+  }
+ }
+}

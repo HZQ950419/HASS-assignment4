@@ -2,93 +2,113 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <meta author="Zhiqiang Hu">
+  <title>Assignment 4: Singapore Population</title>
   <style>
-    #map {
-    width: 1000px;
-    height: 600px;
+    body {
+    background-color: #808080;
 }
+    .tooltip {
+        position: absolute;
+        background: #ffffff;
+    }
   </style>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-providers/1.3.0/leaflet-providers.min.js"></script>
-<script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
-
 <body>
-<div id="map"></div>
-
-<svg>
-</svg>
-
+<h1 style="text-align: center">The Population Distribution of Singapore in 2021</h1>
+<svg></svg>
+<div class="tooltip"></div>
+<script src="https://d3js.org/d3.v7.min.js"></script>
 
 <script>
-//   let map = new L.Map("map", {center: [1.347833, 103.809357], zoom: 12})
-//           .addLayer(new L.TileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"));
-//
-//   let tiles = new L.tileLayer('https://maps-{s}.onemap.sg/v3/Default/{z}/{x}/{y}.png', {
-//   detectRetina: true,
-//   maxZoom: 18,
-//   minZoom: 11,
-//   //Do not remove this attribution
-//   attribution: '<img src="https://docs.onemap.sg/maps/images/oneMap64-01.png" style="height:20px;width:20px;">' +
-//                'New OneMap | Map data © contributors, <a href="http://SLA.gov.sg">Singapore Land Authority</a>'
-// });
 
-  // map.addLayer(tiles);
+let width = 1000, height = 600;
 
-  let tiles = new L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',{
-      maxZoom: 20,
-      subdomains:['mt0','mt1','mt2','mt3']
-  });
+let svg = d3.select("svg")
+    .attr("viewBox", "0 0 " + width + " " + height)
 
-  let map = new L.Map("map", {
-    center: [1.347833, 103.809357],
-    zoom: 11,
-    maxBounds: L.latLngBounds(L.latLng(1.1, 103.5), L.latLng(1.5, 104.3))
-    })
-    .addLayer(tiles);
+// Load external data and boot
+Promise.all([d3.json("sgmap.json"), d3.json("population2021.json")]).then(data => {
 
-  // let svg = d3.select(map.getPanes().overlayPane)
-  //   .append("svg")
-  //   .attr("width", 1000)
-  //   .attr("height", 600)
-  //       .append("g")
-  //       .attr("id","svgLayer")
-  //       .attr("class", "leaflet-zoom-hide");
+console.log(data[0].features.length);
+console.log(data[1]);
+
+ for (let i = 0; i < data[0].features.length; i++){
+			  if (data[0].features[i]['properties']['Name'] in data[1]){
+                  if (data[1][data[0].features[i].properties.Name]['Population'] !== '-') {
+                    data[0].features[i]['properties']['Population'] = parseInt(data[1][data[0].features[i].properties.Name]['Population']);
+                  }
+                  else {
+                    data[0].features[i]['properties']['Population'] = 0;
+                  }
+			  }
+			  else {
+				  data[0].features[i]['properties']['Population'] = 0;
+                  if (data[0].features[i]['properties']['Name'] in data[1].area_dict) {
+                    for (let j = 0; j < data[1].area_dict[data[0].features[i]['properties']['Name']].Population.length; j++){
+                      if (data[1].area_dict[data[0].features[i].properties.Name]['Population'][j] !== '-') {
+                        data[0].features[i]['properties']['Population'] += parseInt(data[1].area_dict[data[0].features[i].properties.Name]['Population'][j])
+                      }
+                    }
+                  }
+			  }
+		  }
+
+ for (let i = 0; i < data[0].features.length; i++){
+   if (data[0].features[i]['properties']['Name'] === 'Western Water Catchment'){
+     console.log(data[0].features[i]);
+   }
+ }
+ // console.log(data[0]);
+
+// Map and projection
+var projection = d3.geoMercator()
+    .center([103.851959, 1.290270])
+    .fitExtent([[20, 20], [980, 580]], data[0]);
+
+let geopath = d3.geoPath().projection(projection);
+
+let color = d3.scaleLinear()
+              .domain([0, 1])
+              .range(["white", "MediumBlue"]);
+
+svg.append("g")
+    .attr("id", "districts")
+    .selectAll("path")
+    .data(data[0].features)
+    .enter()
+    .append("path")
+        .attr("d", geopath)
+        .attr('stroke', 'white')
+        .attr('stroke-width', 0)
+        .attr("fill", function (d){
+          if (d.properties.Population !== 0) {
+            return color(d.properties.Population / 127510);
+          }
+          else {
+            return "Black";
+          }
+          })
+        .on("mouseover", (event, d) => {
+                    console.log(d)
+                    d3.select(event.currentTarget)
+                        .style('stroke', "red")
+                        .style("stroke-width", "1px")
+                    d3.select(".tooltip")
+                        .style("left", (event.pageX) + "px")
+                        .style("top", (event.pageY) + "px")
+                        .text(`${d.properties.Name}` + '\t Population: \t' + `${d.properties.Population}`);
+                    })
+                .on("mouseout", (event, d) => {
+                        d3.select(event.currentTarget)
+                        .style('stroke', "white")
+                        .style('stroke-width', 0)
+                        d3.select(".tooltip")
+                        .text("");
+                    });
+})
+
 </script>
-
-<!--<script>-->
-
-<!--let width = 1000, height = 600;-->
-
-<!--let svg = d3.select("svg")-->
-<!--    .attr("viewBox", "0 0 " + width + " " + height)-->
-
-<!--// Load external data and boot-->
-<!--Promise.all([d3.json("sgmap.json"), d3.csv("population2021.csv")]).then(data => {-->
-
-<!--console.log(data[0]);-->
-<!--console.log(data[1]);-->
-
-<!--// Map and projection-->
-<!--var projection = d3.geoMercator()-->
-<!--    .center([103.851959, 1.290270])-->
-<!--    .fitExtent([[20, 20], [980, 580]], data[0]);-->
-
-<!--let geopath = d3.geoPath().projection(projection);-->
-
-<!--svg.append("g")-->
-<!--    .attr("id", "districts")-->
-<!--    .selectAll("path")-->
-<!--    .data(data[0].features)-->
-<!--    .enter()-->
-<!--    .append("path")-->
-<!--    .attr("d", geopath)-->
-<!--    .attr("fill", "black");-->
-<!--})-->
-
-<!--</script>-->
 
 </body>
 </html>
